@@ -12,7 +12,7 @@ const App = () => {
 
   return (
     <div className="App">
-      <h1>Studen ID: </h1>101505388
+      <h1>Studen ID: 101505388</h1>
       <h1>Studen Name:Gurpreet Kaur</h1>
       <h1>Student Information System</h1>
       <h5>Powered By: moxDroid Labs Inc. || DevOps</h5>

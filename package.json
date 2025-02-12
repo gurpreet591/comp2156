@@ -7,8 +7,11 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
-  },
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
+  }, "homepage": "https://gurpreet591.github.io/comp2156",
+  
   "repository": {
     "type": "git",
     "url": "git+https://github.com/gurpreet591/comp2156.git"
